@@ -50,7 +50,7 @@ class _ChatPageState extends State<ChatPage> {
         unselectedItemColor: Colors.black.withOpacity(0.6),
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.recent_actors),
+            icon: Icon(Icons.home),
             label: 'Home',
           ),
           BottomNavigationBarItem(

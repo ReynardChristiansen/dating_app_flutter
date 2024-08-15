@@ -227,7 +227,7 @@ class _HomePageState extends State<HomePage> {
         unselectedItemColor: Colors.black.withOpacity(0.6),
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.recent_actors),
+            icon: Icon(Icons.home),
             label: 'Home',
           ),
           BottomNavigationBarItem(
@@ -274,9 +274,8 @@ class _HomePageState extends State<HomePage> {
                                   padding: const EdgeInsets.all(16),
                                   decoration: BoxDecoration(
                                     gradient: LinearGradient(
-                                      colors: item.age == 0
-                                        ? [Colors.black.withOpacity(0), Colors.black.withOpacity(0)]
-                                        : [Colors.black.withOpacity(0.8), Colors.black.withOpacity(0)],
+                                      colors:
+                                        [Colors.black.withOpacity(0.8), Colors.black.withOpacity(0)],
                                       begin: Alignment.bottomCenter,
                                       end: Alignment.topCenter,
                                     ),
@@ -355,7 +354,7 @@ class _HomePageState extends State<HomePage> {
         unselectedItemColor: Colors.black.withOpacity(0.6),
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.recent_actors),
+            icon: Icon(Icons.home),
             label: 'Home',
           ),
           BottomNavigationBarItem(
