@@ -1,5 +1,5 @@
 
-# Dating App Api
+# Matchify
 
 **Matchify** is a modern dating app built with Flutter, designed for effortless connections. Users can **register** and **log in** easily, swipe right to **like** or left to **pass** on profiles, and enjoy **real-time chat** with their matches. Profile updates are straightforward, allowing users to keep their information current. **Matchify** offers a user-friendly experience for discovering and connecting with new people.
 
