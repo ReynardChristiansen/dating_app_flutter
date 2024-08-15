@@ -1,16 +1,18 @@
-# dating_app
 
-A new Flutter project.
+# Dating App Api
 
-## Getting Started
+**Matchify** is a modern dating app built with Flutter, designed for effortless connections. Users can **register** and **log in** easily, swipe right to **like** or left to **pass** on profiles, and enjoy **real-time chat** with their matches. Profile updates are straightforward, allowing users to keep their information current. **Matchify** offers a user-friendly experience for discovering and connecting with new people.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Version Requirements
+To ensure compatibility and proper functionality, this project requires Flutter **3.13.9**. Please make sure to use this specific version of Flutter when working on or building the project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Backend Code
+If you would like to review the backend code, please visit the following URL: [Backend Code](https://github.com/ReynardChristiansen/api_dating_app)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Feedback
+
+If you have any feedback, please reach out to me at reynard.satria@gmail.com
+
+
